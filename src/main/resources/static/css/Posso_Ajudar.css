@@ -1,0 +1,56 @@
+.ajuda{
+    background-color: #7B8FA1;
+    border: 4px solid #7B8FA1;
+    font-family: "Just Another Hand", cursive, sans-serif;
+    font-size: 20px;
+    margin-left: .0em;
+    margin-bottom: 10em;
+}
+
+.apoio{
+    text-align: center;
+    font-size: 30px;
+}
+
+.sugestao{
+    background-color: #CFB997;
+    border: 10px solid #CFB997;
+    margin: -12.5em .0em .0em .0em;
+    padding: .0em .0em 3.0em .0em;
+}
+
+.comentarios{
+    width: 100%;
+}
+
+.mensagem{
+    font-size: 35px;
+    font-family: "Just Another Hand", cursive, sans-serif;
+    text-align: center;
+    padding: 1.0em .0em 1.0em .0em;
+    margin: .0em .0em .0em .0em;
+}
+
+.enviar{
+    background-color: #FAD6A5;
+    border: 9px solid #FAD6A5;
+    border-radius: 100px;
+    font-family: "Just Another Hand", cursive, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    position: absolute;
+    margin-left: 630px;
+    margin-top: -57px;
+}
+
+.voltar{
+    background-color: #FAD6A5;
+    border: 9px solid #FAD6A5;
+    border-radius: 100px;
+    font-family: "Just Another Hand", cursive, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    position: absolute;
+    margin-left: 500px;
+}
+

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Cardápio</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" th:href="@{/css/Cardapio.css}" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    </head>
+
+    <body>
+        <header class="titulo">
+            <img th:src="@{/images/Osiris.jpg}" alt="osiris" class="osiris">
+        </header>
+
+        <div class="libra">
+            <img th:src="@{/images/Libra.png}" alt="libra">
+        </div>
+
+        <section class="menu">
+            <article class="posicao">
+                <p>Carppacio de carne . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . R$ 59,90 </p>
+                <br/>
+                <p>Lasanha a Quatro Queijos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . R$ 89,90 </p>
+                <br/>
+                <p>Tomahawk com Tomate Confitado . . . . . . . . . . . . . . . . . . . . . . . . R$ 110,00 </p>
+                <br/>
+                <p>Risoto de Camarão . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . R$ 99,90 </p>
+
+            </article>
+        </section>
+        <a th:href="@{Pag_Inicial}"> <button class="voltar">Voltar</button> </a>
+
+        <img th:src="@{/images/Duvida.png}" alt="duvida" class="duvida">
+    </body>
+
+</html>

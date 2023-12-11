@@ -1,0 +1,71 @@
+.navegacao {
+    background-color: #567189;
+    border: 4px solid #567189;
+    width: 166px;
+    height: 836px;
+    margin: -11.06em .0em 2.0em .0em;
+    padding: .5em;
+    font-size: 28px;
+    float: top;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.a {
+    background-color: #FAD6A5;
+    border: 4px solid #FAD6A5;
+    border-radius: 100px;
+    border: 4px solid #FAD6A5;
+    text-align: center;
+}
+
+.cabecalho {
+    background-color: #7B8FA1;
+    border: 4px solid #7B8FA1;
+    font-family: "Just Another Hand", cursive, sans-serif;
+    font-size: 20px;
+    margin-left: 8.3em;
+    margin-bottom: 10em;
+}
+
+.icon {
+    width: 120px;
+}
+
+.osiris {
+    text-align: center;
+    font-size: 30px;
+}
+
+.exp {
+    background-color: #CFB997;
+    border: 118px solid #CFB997;
+    margin: -49.0em .0em .0em 10.4em;
+    padding-top: 3.1em;
+}
+
+.tit_exp {
+    font-size: 40px;
+    font-family: "Just Another Hand", cursive, sans-serif;
+    text-align: center;
+}
+
+.tex_exp {
+    font-size: 35px;
+    font-family: "Just Another Hand", cursive, sans-serif;
+    padding: 1.0em .0em .0em .0em;
+}
+
+.libra {
+    position: absolute;
+    margin-left: 1095px;
+    margin-top: -67px;
+}
+
+.duvida {
+    position: absolute;
+    margin-left: 980px;
+    margin-top: 85px;
+}
+
